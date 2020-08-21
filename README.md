@@ -1,8 +1,7 @@
 ### Hi there, I'm Asif Ishtiaq 👋
 
 ## I'm a Leraner!
-
-- 🔭 I’m currently working on a @AjkerDeal.com!
+- 🔭 I’m currently working on <img align="left" alt="C++" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />
 
 ### Languages and Tools:
 <img align="left" alt="C++" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />
