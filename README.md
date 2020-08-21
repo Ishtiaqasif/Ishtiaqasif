@@ -15,7 +15,7 @@
 
 
 
-[<img align="left" alt=".NET" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" />][reactplaylist]
+[<img align="left" alt=".NET" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" />][reactplaylist]
 
 [<img align="left" alt="C++" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />][reactplaylist]
 
