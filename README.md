@@ -9,9 +9,21 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jQuery/jQuery.png" />][reactplaylist]
-[<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][reactplaylist]
+[<img align="left" alt="JQuery" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg" />][reactplaylist]
+[<img align="left" alt="C#" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" />][reactplaylist]
 [<img align="left" alt="Bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" />][reactplaylist]
+
+
+
+[<img align="left" alt=".net" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" />][reactplaylist]
+
+[<img align="left" alt="Bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" />][reactplaylist]
+
+[<img align="left" alt="Bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" />][reactplaylist]
+
+
+
+
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
