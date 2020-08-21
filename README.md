@@ -1,10 +1,10 @@
-### Hi there, I'm Asif Ishtiaq 👋
+### I'm Asif Ishtiaq 👋
 
-### I'm a Leraner!
+#### A Leraner!
 
 :zap: I’m currently learning NODE JS
 
-### Languages and Tools:
+#### Languages and Tools:
 <img align="left" alt="C++" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" />
 <img align="left" alt=".NET" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" />
