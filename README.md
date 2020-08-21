@@ -23,7 +23,7 @@
 
 
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="VisualStudio" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />][webdevplaylist]
 [<img align="left" alt="SQLServer" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-microsoft-sql-server-sql-server-management-studio-3467355%2F&psig=AOvVaw3-jdpuCCCSu5p_kboFDgMg&ust=1598100360513000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDstICqrOsCFQAAAAAdAAAAABAD" />][webdevplaylist]
 
 [<img align="left" alt="Git" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" />][webdevplaylist]
