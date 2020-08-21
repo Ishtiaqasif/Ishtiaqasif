@@ -8,6 +8,9 @@
 [<img align="left" alt="C++" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />]
 [<img align="left" alt="C#" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" />]
 [<img align="left" alt=".NET" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" />]
+
+[<img align="left" alt=".NET" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain-wordmark.svg" />]
+
 [<img align="left" alt="VisualStudio" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />]
 [<img align="left" alt="HTML5" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />]
 [<img align="left" alt="CSS3" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />]
