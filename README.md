@@ -15,9 +15,9 @@
 
 
 
-[<img align="left" alt=".net" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" />][reactplaylist]
+[<img align="left" alt=".NET" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" />][reactplaylist]
 
-[<img align="left" alt="Bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" />][reactplaylist]
+[<img align="left" alt="C++" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />][reactplaylist]
 
 [<img align="left" alt="Bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" />][reactplaylist]
 
