@@ -19,8 +19,6 @@
 
 [<img align="left" alt="C++" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />][reactplaylist]
 
-[<img align="left" alt="Bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" />][reactplaylist]
-
 
 
 
