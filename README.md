@@ -1,7 +1,8 @@
 ### Hi there, I'm Asif Ishtiaq 👋
 
 ## I'm a Leraner!
-- 🔭 I’m currently working on <img align="left" alt="C++" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />
+
+- 🔭 I’m currently working on NODE JS and Angular
 
 ### Languages and Tools:
 <img align="left" alt="C++" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />
