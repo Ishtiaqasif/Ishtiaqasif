@@ -2,7 +2,7 @@
 
 #### A Leraner!
 
-:zap: I’m currently learning NODE JS
+:zap: Don't lose hope, nor be sad
 
 #### Languages and Tools:
 <img align="left" alt="C++" width="48px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />
