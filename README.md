@@ -1,6 +1,6 @@
 ### I'm Asif Ishtiaq 👋
 
-#### A Leraner!
+#### Leraner!
 
 :zap: Don't lose hope, nor be sad
 
