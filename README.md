@@ -4,7 +4,7 @@
   <br> I'm Asif Ishtiaq :blush:<br>
   <br> Full Stack Web Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coder GIF" width="300">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
